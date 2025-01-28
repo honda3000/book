@@ -625,3 +625,9 @@ body {
 .twitterLink img:hover {
   filter: grayscale(0%);
 }
+.sociali{
+  width: 40px;
+}
+.sociald{
+  width: 40px;
+}
